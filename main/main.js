@@ -1,4 +1,6 @@
 // Write your cade below:
-module.exports = function main() {
-  
+module.exports = function main(p,q) {
+ 
+     var result=p % q;
+     return result;
 };
